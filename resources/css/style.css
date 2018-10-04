@@ -7,7 +7,10 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url("../resources/images/the-flatiron-building.png");
+}
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 #page_links {
@@ -33,7 +36,7 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("../resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 .footer {
